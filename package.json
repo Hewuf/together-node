@@ -1,0 +1,19 @@
+{
+  "name": "together-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hewuf/together-node.git"
+  },
+  "author": "hewuuhuu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hewuf/together-node/issues"
+  },
+  "homepage": "https://github.com/Hewuf/together-node#readme"
+}
